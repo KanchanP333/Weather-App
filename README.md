@@ -12,6 +12,12 @@ A simple and elegant desktop weather application built with Python and PyQt5 tha
 - 🔍 Detailed weather descriptions
 - 💪 Robust error handling for various scenarios
 
+## 🖼️ Screenshot
+
+Here’s a screenshot of the Weather App in action:
+
+![Weather App Screenshot](assets/weatherAppScreenshot.png)
+
 ## 🛠️ Technologies Used
 
 - Python 3
