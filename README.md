@@ -26,36 +26,28 @@ Here’s a screenshot of the Weather App in action:
 - OpenWeatherMap API
 
 
-## Installation
+## 🔧 How to Run
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/KanchanP333/weather-app.git
-   cd weather-app
-   ```
+1. Download the **weather_app.py** and **requirements.txt** files from the repository.
+2. Open a terminal in the directory where you saved the files.
 
-2. **Install required dependencies**
-   ```bash
-   pip install PyQt5 requests
-   ```
+Install the required dependencies using:
+```
+pip install -r requirements.txt
+```
 
-   Or using requirements.txt:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Get an API key**
+3. Get an API key
    - Sign up at [OpenWeatherMap](https://openweathermap.org/api)
    - Get your free API key
    - Replace `"#"` in the code with your actual API key:
-     ```python
+     ```
      apiKey="#"
      ```
 
 ## Usage
 
 1. **Run the application**
-   ```bash
+   ```
    python weather_app.py
    ```
 
